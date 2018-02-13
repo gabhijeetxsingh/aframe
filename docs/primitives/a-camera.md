@@ -9,6 +9,8 @@ source_code: src/extras/primitives/primitives/a-camera.js
 The camera primitive determines what the user sees. We can change the viewport
 by modifying the camera entity's position and rotation.
 
+Note that by default, the camera origin will be at 0 1.6 0 in desktop mode and as well as in VR mode.
+
 ## Example
 
 ```html
